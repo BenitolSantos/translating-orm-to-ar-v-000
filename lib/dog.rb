@@ -4,6 +4,6 @@ class Dog < ActiveRecord::Base
   #.create
   #.find
   #.find_by
-  #
+  #.attr_accessors
 
 end
