@@ -3,7 +3,7 @@ class Dog < ActiveRecord::Base
   #.column_names
   #.create
   #.find
-  #
+  #.find_by
   #
 
 end
